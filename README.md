@@ -20,6 +20,9 @@ Reviews and Ratings: Read and submit movie reviews and check ratings to aid in y
 OTT Platform Availability: Find out which OTT platforms offer the movies you want to watch.
 Upcoming Releases: Stay informed about the latest movie releases.
 Must-Watch Blockbusters: Discover essential movies that are highly recommended.
+
+![image](https://github.com/user-attachments/assets/c810ca9b-006d-4c4d-a97a-959f81e6dcb5)
+
 Installation
 To run Movie Atlas locally, follow these steps:
 
